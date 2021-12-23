@@ -9,4 +9,4 @@ and another example I found here :             R = ABCDE,     F = {A -> B, C -> 
 
 The output looks like this:
 
-![alt text](http://abhinaav.com/bcnfdecomposition)
+![alt text](https://static.wixstatic.com/media/69ceb2_dd21372a756d44a59b35df244e3a8293~mv2.png/v1/fill/w_1157,h_379,al_c,lg_1,q_90/unnamed.webp)
